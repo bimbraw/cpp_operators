@@ -1,0 +1,26 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    double val_1, val_2, k_1, k_2, k_3, k_4;
+    
+    cout << "Input the first number: ";
+    cin >> val_1;
+    
+    cout << "Input the second number: ";
+    cin >> val_2;
+    
+    k_1 = val_1 + val_2;
+    k_2 = val_1 - val_2;
+    k_3 = val_1 * val_2;
+    k_4 = val_1 / val_2;
+
+    cout << "The sum is: " << k_1 << endl;
+    cout << "The difference is: " << k_2 << endl;
+    cout << "The product is: " << k_3 << endl;
+    cout << "The quotient is: " << k_4 << endl;
+    
+    return 0;
+}
