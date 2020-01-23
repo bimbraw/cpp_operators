@@ -16,5 +16,3 @@ Exercise 6. Write a program that asks the user to input two numbers and calculat
 Exercise 7. Write a program that asks the user to input two numbers and calculates the remainder of their divison (modulo). Print the result in the console.
 
 Exercise 8. Write a program that asks the user to input three integer numbers. The first two should represent the minimum and maximum value of the interval respectively. Then the program should check if the third number is greater or equal to the minimum value and if it is lower or equal to the maximum value. The result should be expressed with two sentences and logical result using boolean type variable.
-
-Exercise 9. Basing on the knowledge of logical operators try to modify the exercise from the lecture. Write a program that asks the user to input three integer numbers. The first two should represent the minimum and maximum value of the interval respectively. Then the program should check if the third number is contained within the interval. The result should be expressed with sentence and logical resultusing boolean type variable.
