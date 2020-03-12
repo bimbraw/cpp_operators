@@ -1,5 +1,5 @@
-# cpp_operators
-Operators exercise in C++
+# cpp_operators (completed)
+Operators exercises in C++
 
 Exercise 1. Write a program that asks the user to input a value of length expressed in inches, convert it to centimeters and print in the console.
 
